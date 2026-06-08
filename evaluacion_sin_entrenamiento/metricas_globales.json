@@ -1,0 +1,11 @@
+{
+  "modelo": "PERO-OCR (sin fine-tuning)",
+  "n_documentos": 92,
+  "CER": 0.8674,
+  "WER": 1.057,
+  "BLEU": 0.5448,
+  "ROUGE-1": 0.7927,
+  "ROUGE-L": 0.6789,
+  "NED": 0.3437,
+  "fecha": "2026-06-03T09:36:07.175465"
+}
