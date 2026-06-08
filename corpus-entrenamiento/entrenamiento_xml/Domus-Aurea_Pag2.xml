@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Philippine newspapers in Spanish(htr_id=33099)::::v=2.6.7
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.7
+</Creator>
+        <Created>2019-03-13T18:47:15.159+01:00</Created>
+        <LastChange>2026-03-09T11:35:08.033+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: SpanishTraditionalSort
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="118724" pageId="4559346" pageNr="2" tsid="279819126" status="GT" userId="30120" imgUrl="https://files.transkribus.eu/Get?fileType=view&amp;id=XADEAQTGABPZEWAEQCLYQCRS" xmlUrl="https://files.transkribus.eu/Get?id=BEFAEJNOTEVGJNXSGFWYJIYA" imageId="2608074"/>
+    </Metadata>
+    <Page imageFilename="0002_image00126.jpg" imageWidth="1705" imageHeight="2077">
+        <PrintSpace>
+            <Coords points="326,120 1679,120 1679,2077 326,2077"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1774430863650" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r"/>
+                <RegionRefIndexed index="1" regionRef="r_3_1"/>
+                <RegionRefIndexed index="2" regionRef="r_4_1"/>
+                <RegionRefIndexed index="3" regionRef="r_6_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r" custom="readingOrder {index:0;}">
+            <Coords points="504,722 1475,722 1475,754 504,754"/>
+            <TextLine id="l" custom="readingOrder {index:0;}">
+                <Coords points="504,754 1475,752 1475,722 504,724"/>
+                <Baseline points="504,754 1475,752"/>
+                <TextEquiv>
+                    <Unicode>Permitida la reproduccion, previo permiso del Director.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:1;}">
+            <Coords points="609,835 1393,835 1393,886 609,886"/>
+            <TextLine id="tl_1" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="604,886 1399,883 1398,829 1360,820 1172,844 1098,822 939,842 846,816 767,838 603,822"/>
+                <Baseline points="610,875 648,875 751,875 800,874 906,879 1005,873 1169,872 1232,872 1290,872 1392,871"/>
+                <TextEquiv>
+                    <Unicode>Los trabajos son inéditos, escritos expresamente para esta Revista.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="12.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Los trabajos son ineditos, escritos expresamente para esta Revista.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:2;}">
+            <Coords points="506,947 1493,947 1493,1120 506,1120"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="501,986 1498,989 1497,938 1458,924 1369,951 813,923 679,959 500,933"/>
+                <Baseline points="507,978 660,976 861,975 927,974 1054,979 1113,974 1268,974 1314,974 1372,972 1492,971"/>
+                <TextEquiv>
+                    <Unicode>Cualquiera composición no pedida, se someterá á un Jurado</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="565,1041 1001,1022 1225,1043 1434,1024 1434,995 565,997"/>
+                <Baseline points="571,1024 720,1022 790,1021 939,1020 986,1025 1063,999 1249,1019 1308,1019 1372,1018 1428,1018"/>
+                <TextEquiv>
+                    <Unicode>compuesto del Director y dos Redactores. Si no se</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="635,1084 1343,1079 1369,1072 1369,1033 634,1031"/>
+                <Baseline points="641,1074 744,1068 784,1067 884,1066 961,1066 1016,1066 1065,1066 1219,1070 1265,1065 1363,1059"/>
+                <TextEquiv>
+                    <Unicode>publica al tercer mes de la remisión, se consi¬</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="677,1124 889,1119 980,1146 1027,1114 1078,1128 1127,1111 1264,1145 1323,1119 1323,1082 677,1083"/>
+                <Baseline points="683,1114 774,1114 933,1112 987,1111 1023,1112 1154,1111 1188,1111 1317,1111"/>
+                <TextEquiv>
+                    <Unicode>derará rechazada. No se devuelve el original.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="8.0"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cualquiera composición no pedida, se someterá á un Juradocompuesto del Director y dos Redactores. Si no sepublica al tercer mes de la remisión, se consi¬derará rechazada. No se devuelve el original.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:3;}">
+            <Coords points="510,1774 1478,1774 1478,1821 510,1821"/>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="505,1827 1484,1822 1483,1775 1441,1761 505,1770"/>
+                <Baseline points="511,1811 611,1811 638,1815 833,1812 875,1812 905,1812 944,1812 1058,1818 1134,1812 1175,1811 1273,1814 1330,1812 1387,1807 1477,1805"/>
+                <TextEquiv>
+                    <Unicode>Imprenta y Encuadernacion de I. R. Morales, Plaza de Quiapo, 13, Tel. 1200.</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Times New Roman" fontSize="11.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Imprenta y Encuadernacion de I. R. Morales, Plaza de Quiapo, 13, Tel. 1200.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:4;}">
+            <Coords points="874,775 1129,775 1129,779 874,779"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_8" custom="readingOrder {index:5;}">
+            <Coords points="874,781 1011,781 1011,784 874,784"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_9" custom="readingOrder {index:6;}">
+            <Coords points="1027,780 1128,780 1128,784 1027,784"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_10" custom="readingOrder {index:7;}">
+            <Coords points="922,899 1080,899 1080,902 922,902"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:8;}">
+            <Coords points="326,2057 834,2057 834,2077 326,2077"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:9;}">
+            <Coords points="834,2070 934,2070 934,2077 834,2077"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:10;}">
+            <Coords points="1634,120 1665,120 1665,727 1634,727"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:11;}">
+            <Coords points="1663,730 1671,730 1671,857 1663,857"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:12;}">
+            <Coords points="1675,919 1679,919 1679,1019 1675,1019"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:13;}">
+            <Coords points="491,1753 1502,1753 1502,1766 491,1766"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
