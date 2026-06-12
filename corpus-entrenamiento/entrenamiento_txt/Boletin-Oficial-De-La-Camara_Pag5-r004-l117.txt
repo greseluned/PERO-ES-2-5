@@ -1,1 +1,0 @@
-con 29,150 libretas v 43.406,154 pesetas;
