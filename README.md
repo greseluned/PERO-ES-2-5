@@ -10,7 +10,7 @@ En una primera fase (v.1.0.0), las pruebas se realizan sin fine tuning sobre un 
 
 En una segunda fase (v.2.0.0), se realizan pruebas con fine tuning a partir de un segundo corpus, denominado corpus-entrenamiento, con el fin de valorar si la adaptación del modelo a las características específicas de la prensa histórica en español mejora la calidad de la transcripción.
 
-Los corpus y las pruebas han sido desarrollados en el marco del proyecto GRESEL-UNED: “Narrativas poscoloniales en periódicos en español de Asia, España y el Caribe hispánico” (PID2023-151280OB-C22), financiado por el Ministerio de Ciencia e Innovación / AEI.
+Los corpus y las pruebas han sido desarrollados en el marco del proyecto GRESEL-UNED: "Narrativas poscoloniales en periódicos en español de Asia, España y el Caribe hispánico" (PID2023-151280OB-C22), financiado por el Ministerio de Ciencia e Innovación / AEI.
 
 ---
 
@@ -23,7 +23,7 @@ PERO-ES-2-5/
 	├──pruebas-page_xml/           # Transcripciones manuales en formato PAGE-XML (Transkribus)
 	├──pruebas-transcripciones/       # Transcripciones automáticas generadas por PERO-OCR
 ├── corpus-entrenamiento/              
-	├──entrenamiento-jpg/ 			 # Imágenes digitalizadas (92 páginas en formato JPG)
+	├──entrenamiento-jpg/ 			 # Imágenes digitalizadas (135 páginas en formato JPG)
 	├──entrenamiento_xml/           # Transcripciones en formato PAGE-XML (Transkribus)
 	├──entrenamiento_txt/       # Transcripciones generadas con Transkribus y revisadas
 └── evaluacion_sin_entrenamiento/
@@ -39,21 +39,27 @@ PERO-ES-2-5/
 ### Descripción de las carpetas
 
 **`corpus-pruebas/`**
-Contiene 92 páginas completas  procedentes de las siguientes publicaciones:
+Contiene 92 páginas completas procedentes de las siguientes publicaciones:
 
-- *Filipinas* (1909–1910) — Revista femenina editada en Manila (NÚMERO DE PÁGINAS)
-- *Fémina* (1922–1923) — Revista femenina dominicana, editada en San Pedro de Macorís (NÚMERO DE PÁGINAS)
-- *Heraldo de la Mujer* (1919) — Publicación periódica de Puerto Rico (NÚMERO DE PÁGINAS)
-- *La Vanguardia* (1944) — Diario filipino de noticias e intereses generales. (NÚMERO DE PÁGINAS)
+- *Filipinas* (1909–1910) — Revista femenina editada en Manila (49 páginas)
+- *Fémina* (1922–1923) — Revista femenina dominicana, editada en San Pedro de Macorís (31 páginas)
+- *Heraldo de la Mujer* (1919) — Publicación periódica de Puerto Rico (2 páginas)
+- *La Vanguardia* (1944) — Diario filipino de noticias e intereses generales (10 páginas)
 
 **`evaluacion_sin_entrenamiento/`**
-Contiene los resultados de la evaluación automática de las transcripciones de PERO-OCR frente al ground truth manual, calculados con las métricas estándar del framework From Paper to Pixel (Macicior-Mitxelena y García-Serrano, 2026).
+Contiene los resultados de la evaluación automática de las transcripciones de PERO-OCR (modelo base, sin fine-tuning) frente al ground truth manual de las 92 páginas del corpus de pruebas. Las métricas (CER, WER, NED, BLEU, ROUGE-1 y ROUGE-L) se han calculado con el framework *From Paper to Pixel* (Macicior-Mitxelena y García-Serrano, 2026), siguiendo el mismo enfoque metodológico empleado por el equipo GRESEL en la tarea compartida *PastReader: Transcribing Texts from the Past* (IberLEF 2025). La carpeta incluye, además de las métricas globales y por documento, un análisis comparativo por publicación y gráficas de distribución de resultados inspiradas en las elaboradas por Yanco Torterolo para dicha tarea. El detalle completo de la metodología, los resultados y su interpretación se encuentra en el README de esta carpeta.
 
 **`corpus-entrenamiento/`**
-Contiene  páginas completas  procedentes de las siguientes publicaciones:
+Contiene 135 páginas completas procedentes de las siguientes publicaciones:
 
-- *Excelsior* (1929–1932) — Revista decenal ilustrada editada en Manila (NÚMERO DE PÁGINAS)
-- *Sorpresas Chicago*
+- *Excelsior* (1932) — Revista decenal ilustrada editada en Manila (51 páginas)
+- *Filipinas Ante Europa* (1899–1900) — Revista editada en Madrid (19 páginas)
+- *Heraldo de la Mujer* (1918–1920) — Publicación periódica de Puerto Rico (18 páginas)
+- *Sorpresas Chicago* (1894–1895) — Publicación editada en Manila (19 páginas)
+- *La Malasia* (1898) — Publicación editada en Manila (16 páginas)
+- *Fémina* (1922–1923) — Revista femenina dominicana, editada en San Pedro de Macorís (6 páginas)
+- *Boletín Oficial de la Cámara de Comercio Española de Filipinas* (1904–1905) — Publicación editada en Manila (5 páginas)
+- *El Oriente* (1877) — Publicación editada en Manila (1 página)
 
 **`evaluacion_con_entrenamiento/`**
 Se completará en la versión v.2.0.0 del repositorio
@@ -120,6 +126,7 @@ Este trabajo ha sido financiado por el Ministerio de Ciencia e Innovación / AEI
 
 ## Referencias
 
+García-Serrano, A., Torterolo Orta, Y. A. et al. (2025). GRESEL teams at PastReader: Transcribing Texts from the Past. IberLEF 2025. https://arxiv.org/abs/2507.04878
 Hradiš, M., Kodym, O., & Kohút, J. (2026). PERO OCR: Automatic document processing (Versión actual del software). Facultad de Tecnología de la Información, Universidad Tecnológica de Brno. https://github.com/DCGM/pero-ocr
 Kišš, M., Beneš, K., & Hradiš, M. (2021). AT-ST: Self-training adaptation strategy for OCR in domains with limited transcriptions. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
 Kodym, O., & Hradiš, M. (2021). Page layout analysis system for unconstrained historic documents. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
