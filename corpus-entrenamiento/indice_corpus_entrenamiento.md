@@ -5,7 +5,7 @@
 | 0001_La_malasia0001 | La Malasia | 1898 | 01 |
 | 0001_el_oriente0001 | El Oriente | 1877 | 1 |
 | 0002_La_malasia0002 | La Malasia | 1898 | 02 |
-| 0002_p002 | Excelsior (PENDIENTE renombrar) | 1932 | 002 |
+| 0002_p002 | Excelsior | 1932 | (las páginas en Excelsior no aparecen numeradas) |
 | 0003_La_malasia0003 | La Malasia | 1898 | 03 |
 | 0004_La_malasia0004 | La Malasia | 1898 | 04 |
 | 0005_La_malasia0005 | La Malasia | 1898 | 05 |
@@ -25,56 +25,56 @@
 | Boletin-Oficial-De-La-Camara_Pag5 | Boletín Oficial de la Cámara de Comercio Española de Filipinas | 1904-1905 | 5 |
 | Boletin-Oficial-De-La-Camara_Pag6 | Boletín Oficial de la Cámara de Comercio Española de Filipinas | 1904-1905 | 6 |
 | Boletin-Oficial-De-La-Camara_Pag7 | Boletín Oficial de la Cámara de Comercio Española de Filipinas | 1904-1905 | 7 |
-| Excelsior-10-09-1932_p001 | Excelsior | 1932 | 001 |
-| Excelsior-10-09-1932_p002 | Excelsior | 1932 | 002 |
-| Excelsior-10-09-1932_p004 | Excelsior | 1932 | 004 |
-| Excelsior-10-09-1932_p005 | Excelsior | 1932 | 005 |
-| Excelsior-10-09-1932_p006 | Excelsior | 1932 | 006 |
-| Excelsior-10-09-1932_p007 | Excelsior | 1932 | 007 |
-| Excelsior-10-09-1932_p008 | Excelsior | 1932 | 008 |
-| Excelsior-10-09-1932_p009 | Excelsior | 1932 | 009 |
-| Excelsior-10-09-1932_p010 | Excelsior | 1932 | 010 |
-| Excelsior-10-09-1932_p011 | Excelsior | 1932 | 011 |
-| Excelsior-10-09-1932_p012 | Excelsior | 1932 | 012 |
-| Excelsior-10-09-1932_p013 | Excelsior | 1932 | 013 |
-| Excelsior-10-09-1932_p014 | Excelsior | 1932 | 014 |
-| Excelsior-10-09-1932_p015 | Excelsior | 1932 | 015 |
-| Excelsior-10-09-1932_p016 | Excelsior | 1932 | 016 |
-| Excelsior-10-09-1932_p017 | Excelsior | 1932 | 017 |
-| Excelsior-10-09-1932_p018 | Excelsior | 1932 | 018 |
-| Excelsior-10-09-1932_p019 | Excelsior | 1932 | 019 |
-| Excelsior-10-09-1932_p020 | Excelsior | 1932 | 020 |
-| Excelsior-10-09-1932_p021 | Excelsior | 1932 | 021 |
-| Excelsior-10-09-1932_p022 | Excelsior | 1932 | 022 |
-| Excelsior-10-09-1932_p023 | Excelsior | 1932 | 023 |
-| Excelsior-10-09-1932_p024 | Excelsior | 1932 | 024 |
-| Excelsior-10-09-1932_p025 | Excelsior | 1932 | 025 |
-| Excelsior-10-09-1932_p026 | Excelsior | 1932 | 026 |
-| Excelsior-10-09-1932_p027 | Excelsior | 1932 | 027 |
-| Excelsior-10-09-1932_p029 | Excelsior | 1932 | 029 |
-| Excelsior-10-09-1932_p031 | Excelsior | 1932 | 031 |
-| Excelsior-10-09-1932_p032 | Excelsior | 1932 | 032 |
-| Excelsior-10-09-1932_p033 | Excelsior | 1932 | 033 |
-| Excelsior-10-09-1932_p034 | Excelsior | 1932 | 034 |
-| Excelsior-10-09-1932_p035 | Excelsior | 1932 | 035 |
-| Excelsior-10-09-1932_p036 | Excelsior | 1932 | 036 |
-| Excelsior-10-09-1932_p037 | Excelsior | 1932 | 037 |
-| Excelsior-10-09-1932_p041 | Excelsior | 1932 | 041 |
-| Excelsior-10-09-1932_p046 | Excelsior | 1932 | 046 |
-| Excelsior-10-09-1932_p047 | Excelsior | 1932 | 047 |
-| Excelsior-10-09-1932_p050 | Excelsior | 1932 | 050 |
-| Excelsior-10-09-1932_p053 | Excelsior | 1932 | 053 |
-| Excelsior-10-09-1932_p055 | Excelsior | 1932 | 055 |
-| Excelsior-10-09-1932_p056 | Excelsior | 1932 | 056 |
-| Excelsior-10-09-1932_p057 | Excelsior | 1932 | 057 |
-| Excelsior-10-09-1932_p061 | Excelsior | 1932 | 061 |
-| Excelsior-10-09-1932_p062 | Excelsior | 1932 | 062 |
-| Excelsior-10-09-1932_p065 | Excelsior | 1932 | 065 |
-| Excelsior-10-09-1932_p066 | Excelsior | 1932 | 066 |
-| Excelsior-10-09-1932_p067 | Excelsior | 1932 | 067 |
-| Excelsior-10-09-1932_p068 | Excelsior | 1932 | 068 |
-| Excelsior-10-09-1932_p096 | Excelsior | 1932 | 096 |
-| Excelsior-10-09-1932_p113 | Excelsior | 1932 | 113 |
+| Excelsior-10-09-1932_p001 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p002 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p004 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p005 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p006 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p007 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p008 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p009 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p010 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p011 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p012 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p013 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p014 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p015 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p016 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p017 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p018 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p019 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p020 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p021 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p022 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p023 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p024 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p025 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p026 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p027 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p029 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p031 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p032 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p033 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p034 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p035 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p036 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p037 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p041 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p046 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p047 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p050 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p053 | Excelsior | 1932 | s.n.|
+| Excelsior-10-09-1932_p055 | Excelsior | 1932 | s.n.|
+| Excelsior-10-09-1932_p056 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p057 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p061 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p062 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p065 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p066 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p067 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p068 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p096 | Excelsior | 1932 | s.n. |
+| Excelsior-10-09-1932_p113 | Excelsior | 1932 | s.n. |
 | Femina-15-03-1923_p008 | Fémina | 1923 | 008 |
 | Femina-15-03-1923_p011 | Fémina | 1923 | 011 |
 | Femina-15-05-1923_p013 | Fémina | 1923 | 013 |
