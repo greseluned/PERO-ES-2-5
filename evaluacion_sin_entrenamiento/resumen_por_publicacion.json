@@ -1,0 +1,42 @@
+[
+  {
+    "publicacion": "Filipinas (1909-1910)",
+    "n": 49,
+    "cer_medio": 0.3485,
+    "wer_medio": 0.4905,
+    "bleu_medio": 0.6147,
+    "rouge1_medio": 0.8617,
+    "rougeL_medio": 0.7683,
+    "ned_medio": 0.2633
+  },
+  {
+    "publicacion": "Fémina (1922-1923)",
+    "n": 31,
+    "cer_medio": 1.7969,
+    "wer_medio": 2.0661,
+    "bleu_medio": 0.4554,
+    "rouge1_medio": 0.6852,
+    "rougeL_medio": 0.5947,
+    "ned_medio": 0.4015
+  },
+  {
+    "publicacion": "Heraldo de la Mujer (1919)",
+    "n": 2,
+    "cer_medio": 0.1535,
+    "wer_medio": 0.2445,
+    "bleu_medio": 0.7085,
+    "rouge1_medio": 0.9182,
+    "rougeL_medio": 0.8733,
+    "ned_medio": 0.1424
+  },
+  {
+    "publicacion": "La Vanguardia (1944)",
+    "n": 10,
+    "cer_medio": 0.6718,
+    "wer_medio": 0.8673,
+    "bleu_medio": 0.4463,
+    "rouge1_medio": 0.7628,
+    "rougeL_medio": 0.4626,
+    "ned_medio": 0.5982
+  }
+]
