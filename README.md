@@ -114,7 +114,7 @@ Este corpus se distribuye bajo la licencia **Creative Commons Atribución-NoCome
 
 Puede compartir y adaptar el material para fines no comerciales siempre que se proporcione atribución adecuada.
 
-Más información: https://creativecommons.org/licenses/by-nc/4.0/deed.es
+Más información: https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
