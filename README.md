@@ -43,7 +43,7 @@ Contiene 92 páginas completas procedentes de las siguientes publicaciones:
 
 - *Filipinas* (1909–1910) — Revista femenina editada en Manila (49 páginas)
 - *Fémina* (1922–1923) — Revista femenina dominicana, editada en San Pedro de Macorís (31 páginas)
-- *Heraldo de la Mujer* (1919) — Publicación periódica de Puerto Rico (2 páginas)
+- *Heraldo de la Mujer* (1919) — Publicación periódica dirigida a un público femenino de Puerto Rico (2 páginas)
 - *La Vanguardia* (1944) — Diario filipino de noticias e intereses generales (10 páginas)
 
 **`evaluacion_sin_entrenamiento/`**
@@ -53,10 +53,10 @@ Contiene los resultados de la evaluación automática de las transcripciones de 
 Contiene 135 páginas completas procedentes de las siguientes publicaciones:
 
 - *Excelsior* (1932) — Revista decenal ilustrada editada en Manila (51 páginas)
-- *Filipinas Ante Europa* (1899–1900) — Revista editada en Madrid (19 páginas)
-- *Heraldo de la Mujer* (1918–1920) — Publicación periódica de Puerto Rico (18 páginas)
-- *Sorpresas Chicago* (1894–1895) — Publicación editada en Manila (19 páginas)
-- *La Malasia* (1898) — Publicación editada en Manila (16 páginas)
+- *Filipinas Ante Europa* (1899–1900) — Revista de política filipina editada por Isabelo de los Reyes en Madrid (19 páginas)
+- *Heraldo de la Mujer* (1918–1920) — Publicación periódica  dirigida a un público femenino de Puerto Rico (18 páginas)
+- *Sorpresas Chicago* (1894–1895) — Semanario satírico publicado en Manila (19 páginas)
+- *La Malasia* (1898) — Semanario satírico publicado en Manila (16 páginas)
 - *Fémina* (1922–1923) — Revista femenina dominicana, editada en San Pedro de Macorís (6 páginas)
 - *Boletín Oficial de la Cámara de Comercio Española de Filipinas* (1904–1905) — Publicación editada en Manila (5 páginas)
 - *El Oriente* (1877) — Publicación editada en Manila (1 página)
@@ -85,7 +85,7 @@ En las pruebas realizdas con PERO-OCR sin fine-tuning, los mejores resultados se
 
 ## Metodología de transcripción
 
-Las transcripciones manuales se realizaron en la plataforma Transkribus con los modelos... Se incluye la segmentación estructural en regiones, párrafos y líneas mediante el estándar PAGE-XML.
+Las transcripciones manuales se realizaron en la plataforma Transkribus durante el proyecto Philippines at the Crossroads, subvencionado por el Bijzonders Onderzoek Fond (BOF) del gobierno de Flandes y la Universidad de Amberes (Bélgica). Se incluye la segmentación estructural en regiones, párrafos y líneas mediante el estándar PAGE-XML.
 
 ---
 
@@ -114,7 +114,7 @@ Este corpus se distribuye bajo la licencia **Creative Commons Atribución-NoCome
 
 Puede compartir y adaptar el material para fines no comerciales siempre que se proporcione atribución adecuada.
 
-Más información: https://creativecommons.org/licenses/by-nc/4.0/deed.es
+Más información: https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
@@ -126,10 +126,10 @@ Este trabajo ha sido financiado por el Ministerio de Ciencia e Innovación / AEI
 
 ## Referencias
 
-García-Serrano, A., Torterolo Orta, Y. A. et al. (2025). GRESEL teams at PastReader: Transcribing Texts from the Past. IberLEF 2025. https://arxiv.org/abs/2507.04878
-Hradiš, M., Kodym, O., & Kohút, J. (2026). PERO OCR: Automatic document processing (Versión actual del software). Facultad de Tecnología de la Información, Universidad Tecnológica de Brno. https://github.com/DCGM/pero-ocr
-Kišš, M., Beneš, K., & Hradiš, M. (2021). AT-ST: Self-training adaptation strategy for OCR in domains with limited transcriptions. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
-Kodym, O., & Hradiš, M. (2021). Page layout analysis system for unconstrained historic documents. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
-Kohút, J., & Hradiš, M. (2021). TS-Net: OCR trained to switch between text transcription styles. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
-Macicior-Mitxelena, J. y García-Serrano, A. (2026). 'From Paper to Pixel: Experimental Framework for Access to Historical Spanish Documents'. Software/Código. https://github.com/jaionemacicior/from-paper-to-pixel
-READ-COOP SCE. (2026). Transkribus [Software]. https://transkribus.eu/
+- García-Serrano, A., Torterolo Orta, Y. A. et al. (2025). GRESEL teams at PastReader: Transcribing Texts from the Past. IberLEF 2025. https://arxiv.org/abs/2507.04878
+- Hradiš, M., Kodym, O., & Kohút, J. (2026). PERO OCR: Automatic document processing (Versión actual del software). Facultad de Tecnología de la Información, Universidad Tecnológica de Brno. https://github.com/DCGM/pero-ocr
+- Kišš, M., Beneš, K., & Hradiš, M. (2021). AT-ST: Self-training adaptation strategy for OCR in domains with limited transcriptions. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
+- Kodym, O., & Hradiš, M. (2021). Page layout analysis system for unconstrained historic documents. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
+- Kohút, J., & Hradiš, M. (2021). TS-Net: OCR trained to switch between text transcription styles. En Proceedings of the International Conference on Document Analysis and Recognition (ICDAR 2021).
+- Macicior-Mitxelena, J. y García-Serrano, A. (2026). 'From Paper to Pixel: Experimental Framework for Access to Historical Spanish Documents'. Software/Código. https://github.com/jaionemacicior/from-paper-to-pixel
+- READ-COOP SCE. (2026). Transkribus [Software]. https://transkribus.eu/
