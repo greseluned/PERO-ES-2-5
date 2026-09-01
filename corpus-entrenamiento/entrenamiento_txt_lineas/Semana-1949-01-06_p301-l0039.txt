@@ -1,0 +1,1 @@
+del valor de los libros vendidos para el autor.

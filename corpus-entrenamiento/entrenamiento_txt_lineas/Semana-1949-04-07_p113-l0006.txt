@@ -1,0 +1,1 @@
+38. A name is either proper or common.
