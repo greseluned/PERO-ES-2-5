@@ -1,0 +1,656 @@
+{
+  "modelo": "PERO-OCR base (sin fine-tuning)",
+  "corpus": "corpus-pruebas (92 paginas)",
+  "procesados": 92,
+  "sin_ocr": 0,
+  "CER_medio": 0.3678,
+  "WER_medio": 0.5241,
+  "CER_porcentaje": 36.78,
+  "WER_porcentaje": 52.41,
+  "resultados_por_documento": [
+    {
+      "documento": "Femina-31-08-1922_p003_pero",
+      "cer": 0.8727,
+      "wer": 0.9339,
+      "chars_gt": 1178,
+      "chars_ocr": 255
+    },
+    {
+      "documento": "Femina-31-08-1922_p007_pero",
+      "cer": 0.9052,
+      "wer": 0.9579,
+      "chars_gt": 1108,
+      "chars_ocr": 121
+    },
+    {
+      "documento": "Femina-31-08-1922_p011_pero",
+      "cer": 0.0845,
+      "wer": 0.4839,
+      "chars_gt": 213,
+      "chars_ocr": 216
+    },
+    {
+      "documento": "Femina-31-08-1922_p012_pero",
+      "cer": 0.4946,
+      "wer": 0.6358,
+      "chars_gt": 1114,
+      "chars_ocr": 1095
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P01_pero",
+      "cer": 0.5637,
+      "wer": 0.75,
+      "chars_gt": 314,
+      "chars_ocr": 237
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P02_pero",
+      "cer": 0.2923,
+      "wer": 0.5081,
+      "chars_gt": 1201,
+      "chars_ocr": 1074
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P03_pero",
+      "cer": 0.0246,
+      "wer": 0.1047,
+      "chars_gt": 1181,
+      "chars_ocr": 1167
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P04_pero",
+      "cer": 0.0413,
+      "wer": 0.1,
+      "chars_gt": 2664,
+      "chars_ocr": 2614
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P05_pero",
+      "cer": 0.0554,
+      "wer": 0.115,
+      "chars_gt": 686,
+      "chars_ocr": 672
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P06_pero",
+      "cer": 0.102,
+      "wer": 0.2614,
+      "chars_gt": 804,
+      "chars_ocr": 815
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P07_pero",
+      "cer": 0.436,
+      "wer": 0.7559,
+      "chars_gt": 5005,
+      "chars_ocr": 4438
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P08_pero",
+      "cer": 0.1414,
+      "wer": 0.3337,
+      "chars_gt": 5879,
+      "chars_ocr": 5882
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P09_pero",
+      "cer": 0.0956,
+      "wer": 0.2704,
+      "chars_gt": 5168,
+      "chars_ocr": 5099
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P10_pero",
+      "cer": 0.1359,
+      "wer": 0.2992,
+      "chars_gt": 5570,
+      "chars_ocr": 5293
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P11_pero",
+      "cer": 0.558,
+      "wer": 0.8533,
+      "chars_gt": 1423,
+      "chars_ocr": 1310
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P12_pero",
+      "cer": 0.5918,
+      "wer": 0.7,
+      "chars_gt": 686,
+      "chars_ocr": 640
+    },
+    {
+      "documento": "Filipinas-22-Abril-1909-P13_pero",
+      "cer": 0.2225,
+      "wer": 0.4413,
+      "chars_gt": 1429,
+      "chars_ocr": 1283
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P14_pero",
+      "cer": 0.5796,
+      "wer": 0.7619,
+      "chars_gt": 402,
+      "chars_ocr": 289
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P15_pero",
+      "cer": 0.1266,
+      "wer": 0.2365,
+      "chars_gt": 932,
+      "chars_ocr": 865
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P16_pero",
+      "cer": 0.0669,
+      "wer": 0.1422,
+      "chars_gt": 3620,
+      "chars_ocr": 3476
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P17_pero",
+      "cer": 0.0301,
+      "wer": 0.1183,
+      "chars_gt": 1991,
+      "chars_ocr": 1987
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P18_pero",
+      "cer": 0.0278,
+      "wer": 0.1111,
+      "chars_gt": 1473,
+      "chars_ocr": 1490
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P19_pero",
+      "cer": 1.4375,
+      "wer": 3.1,
+      "chars_gt": 48,
+      "chars_ocr": 88
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P20_pero",
+      "cer": 0.1178,
+      "wer": 0.2852,
+      "chars_gt": 4458,
+      "chars_ocr": 4224
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P21_pero",
+      "cer": 0.1485,
+      "wer": 0.2209,
+      "chars_gt": 4827,
+      "chars_ocr": 4749
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P22_pero",
+      "cer": 0.1764,
+      "wer": 0.2957,
+      "chars_gt": 3714,
+      "chars_ocr": 3544
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P24_pero",
+      "cer": 0.161,
+      "wer": 0.3206,
+      "chars_gt": 3204,
+      "chars_ocr": 3145
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P25_pero",
+      "cer": 0.1178,
+      "wer": 0.2466,
+      "chars_gt": 5027,
+      "chars_ocr": 5016
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P26_pero",
+      "cer": 0.2088,
+      "wer": 0.2869,
+      "chars_gt": 4728,
+      "chars_ocr": 4695
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P27_pero",
+      "cer": 0.0523,
+      "wer": 0.1897,
+      "chars_gt": 4320,
+      "chars_ocr": 4269
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P28_pero",
+      "cer": 0.4252,
+      "wer": 0.5659,
+      "chars_gt": 2380,
+      "chars_ocr": 2198
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P29_pero",
+      "cer": 0.8482,
+      "wer": 0.9077,
+      "chars_gt": 2154,
+      "chars_ocr": 2194
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P30_pero",
+      "cer": 0.4945,
+      "wer": 0.6383,
+      "chars_gt": 637,
+      "chars_ocr": 592
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P31_pero",
+      "cer": 0.195,
+      "wer": 0.4248,
+      "chars_gt": 1354,
+      "chars_ocr": 1254
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P32_pero",
+      "cer": 0.1614,
+      "wer": 0.2657,
+      "chars_gt": 5850,
+      "chars_ocr": 5857
+    },
+    {
+      "documento": "Filipinas-30-Abril-1909-P33_pero",
+      "cer": 0.6742,
+      "wer": 0.9144,
+      "chars_gt": 9285,
+      "chars_ocr": 9244
+    },
+    {
+      "documento": "Filipinas-Ante-Europa_Pag44_pero",
+      "cer": 0.6744,
+      "wer": 0.7496,
+      "chars_gt": 7482,
+      "chars_ocr": 7506
+    },
+    {
+      "documento": "Filipinas-Ante-Europa_Pag46_pero",
+      "cer": 0.7777,
+      "wer": 0.9456,
+      "chars_gt": 7484,
+      "chars_ocr": 7508
+    },
+    {
+      "documento": "Filipinas-Ante-Europa_Pag47_pero",
+      "cer": 0.5395,
+      "wer": 0.6993,
+      "chars_gt": 7510,
+      "chars_ocr": 7594
+    },
+    {
+      "documento": "Filipinas-Ante-Europa_Pag50_pero",
+      "cer": 0.7449,
+      "wer": 0.843,
+      "chars_gt": 7410,
+      "chars_ocr": 7445
+    },
+    {
+      "documento": "Filipinas_1909_nov_15_page37_pero",
+      "cer": 0.1013,
+      "wer": 0.1602,
+      "chars_gt": 3633,
+      "chars_ocr": 3623
+    },
+    {
+      "documento": "Filipinas_1909_nov_15_page38_pero",
+      "cer": 0.5016,
+      "wer": 0.6446,
+      "chars_gt": 4384,
+      "chars_ocr": 4371
+    },
+    {
+      "documento": "Filipinas_1909_oct_22_page44_pero",
+      "cer": 0.0698,
+      "wer": 0.178,
+      "chars_gt": 4653,
+      "chars_ocr": 4662
+    },
+    {
+      "documento": "Filipinas_1909_oct_22_page45_pero",
+      "cer": 0.0465,
+      "wer": 0.158,
+      "chars_gt": 4967,
+      "chars_ocr": 4958
+    },
+    {
+      "documento": "Filipinas_1909_oct_22_page46_pero",
+      "cer": 0.2147,
+      "wer": 0.2777,
+      "chars_gt": 4438,
+      "chars_ocr": 4443
+    },
+    {
+      "documento": "Filipinas_1909_oct_31_page47_pero",
+      "cer": 0.4527,
+      "wer": 0.4829,
+      "chars_gt": 4082,
+      "chars_ocr": 4078
+    },
+    {
+      "documento": "Filipinas_1909_oct_31_page48_pero",
+      "cer": 0.1639,
+      "wer": 0.2543,
+      "chars_gt": 4374,
+      "chars_ocr": 4363
+    },
+    {
+      "documento": "Filipinas_1909_oct_31_page49_pero",
+      "cer": 0.047,
+      "wer": 0.1602,
+      "chars_gt": 5060,
+      "chars_ocr": 5082
+    },
+    {
+      "documento": "Filipinas_1909_oct_8_page39_pero",
+      "cer": 0.1249,
+      "wer": 0.2039,
+      "chars_gt": 4189,
+      "chars_ocr": 4190
+    },
+    {
+      "documento": "Filipinas_1909_oct_8_page40_pero",
+      "cer": 0.2242,
+      "wer": 0.3087,
+      "chars_gt": 4540,
+      "chars_ocr": 4534
+    },
+    {
+      "documento": "Filipinas_1909_oct_8_page41_pero",
+      "cer": 0.1198,
+      "wer": 0.2347,
+      "chars_gt": 4918,
+      "chars_ocr": 4897
+    },
+    {
+      "documento": "Filipinas_1909_oct_8_page42_pero",
+      "cer": 0.2472,
+      "wer": 0.3054,
+      "chars_gt": 4271,
+      "chars_ocr": 4263
+    },
+    {
+      "documento": "Filipinas_1910_jan_22_page89_pero",
+      "cer": 0.0882,
+      "wer": 0.1715,
+      "chars_gt": 4753,
+      "chars_ocr": 4720
+    },
+    {
+      "documento": "Fémina-10-01-1923_p001_pero",
+      "cer": 0.2083,
+      "wer": 0.3259,
+      "chars_gt": 3457,
+      "chars_ocr": 3442
+    },
+    {
+      "documento": "Fémina-10-01-1923_p002_pero",
+      "cer": 0.6372,
+      "wer": 0.8316,
+      "chars_gt": 2745,
+      "chars_ocr": 2716
+    },
+    {
+      "documento": "Fémina-10-01-1923_p004_pero",
+      "cer": 0.9017,
+      "wer": 0.9799,
+      "chars_gt": 519,
+      "chars_ocr": 68
+    },
+    {
+      "documento": "Fémina-10-01-1923_p011_pero",
+      "cer": 0.9447,
+      "wer": 0.9869,
+      "chars_gt": 470,
+      "chars_ocr": 30
+    },
+    {
+      "documento": "Fémina-10-10-1922_p001_pero",
+      "cer": 0.2498,
+      "wer": 0.3436,
+      "chars_gt": 2706,
+      "chars_ocr": 2680
+    },
+    {
+      "documento": "Fémina-10-10-1922_p002_pero",
+      "cer": 0.4871,
+      "wer": 0.6074,
+      "chars_gt": 1860,
+      "chars_ocr": 1847
+    },
+    {
+      "documento": "Fémina-10-10-1922_p003_pero",
+      "cer": 0.4327,
+      "wer": 0.5835,
+      "chars_gt": 2413,
+      "chars_ocr": 2393
+    },
+    {
+      "documento": "Fémina-10-10-1922_p004_pero",
+      "cer": 0.046,
+      "wer": 0.1415,
+      "chars_gt": 1738,
+      "chars_ocr": 1742
+    },
+    {
+      "documento": "Fémina-10-10-1922_p005_pero",
+      "cer": 0.0613,
+      "wer": 0.1336,
+      "chars_gt": 1370,
+      "chars_ocr": 1362
+    },
+    {
+      "documento": "Fémina-10-10-1922_p006_pero",
+      "cer": 0.0776,
+      "wer": 0.2696,
+      "chars_gt": 1521,
+      "chars_ocr": 1526
+    },
+    {
+      "documento": "Fémina-10-10-1922_p007_pero",
+      "cer": 0.2884,
+      "wer": 0.3581,
+      "chars_gt": 1165,
+      "chars_ocr": 1149
+    },
+    {
+      "documento": "Fémina-10-10-1922_p008_pero",
+      "cer": 0.6789,
+      "wer": 0.8402,
+      "chars_gt": 1227,
+      "chars_ocr": 1209
+    },
+    {
+      "documento": "Fémina-10-10-1922_p009_pero",
+      "cer": 0.7681,
+      "wer": 0.9602,
+      "chars_gt": 1117,
+      "chars_ocr": 1093
+    },
+    {
+      "documento": "Fémina-10-10-1922_p010_pero",
+      "cer": 0.4112,
+      "wer": 0.5921,
+      "chars_gt": 3760,
+      "chars_ocr": 3745
+    },
+    {
+      "documento": "Fémina-10-10-1922_p012_pero",
+      "cer": 0.2092,
+      "wer": 0.3504,
+      "chars_gt": 894,
+      "chars_ocr": 882
+    },
+    {
+      "documento": "Fémina-15-07-1922_p001_pero",
+      "cer": 0.1784,
+      "wer": 0.2585,
+      "chars_gt": 3043,
+      "chars_ocr": 3021
+    },
+    {
+      "documento": "Fémina-15-07-1922_p002_pero",
+      "cer": 0.0741,
+      "wer": 0.281,
+      "chars_gt": 1646,
+      "chars_ocr": 1650
+    },
+    {
+      "documento": "Fémina-15-07-1922_p003_pero",
+      "cer": 0.0813,
+      "wer": 0.2913,
+      "chars_gt": 2584,
+      "chars_ocr": 2574
+    },
+    {
+      "documento": "Fémina-15-07-1922_p004_pero",
+      "cer": 0.3261,
+      "wer": 0.7778,
+      "chars_gt": 46,
+      "chars_ocr": 35
+    },
+    {
+      "documento": "Fémina-15-07-1922_p005_pero",
+      "cer": 0.1181,
+      "wer": 0.4755,
+      "chars_gt": 2023,
+      "chars_ocr": 2051
+    },
+    {
+      "documento": "Fémina-15-07-1922_p006_pero",
+      "cer": 0.4662,
+      "wer": 0.609,
+      "chars_gt": 2808,
+      "chars_ocr": 2817
+    },
+    {
+      "documento": "Fémina-15-07-1922_p007_pero",
+      "cer": 0.0697,
+      "wer": 0.2761,
+      "chars_gt": 3014,
+      "chars_ocr": 3012
+    },
+    {
+      "documento": "Fémina-15-07-1922_p008_pero",
+      "cer": 0.9897,
+      "wer": 0.9977,
+      "chars_gt": 3609,
+      "chars_ocr": 38
+    },
+    {
+      "documento": "Fémina-15-07-1922_p009_pero",
+      "cer": 0.0487,
+      "wer": 0.157,
+      "chars_gt": 2402,
+      "chars_ocr": 2395
+    },
+    {
+      "documento": "Fémina-15-07-1922_p011_pero",
+      "cer": 0.37,
+      "wer": 0.5294,
+      "chars_gt": 454,
+      "chars_ocr": 444
+    },
+    {
+      "documento": "Fémina-15-07-1922_p012_pero",
+      "cer": 0.195,
+      "wer": 0.2899,
+      "chars_gt": 877,
+      "chars_ocr": 866
+    },
+    {
+      "documento": "Fémina-15-10-1922_p004_pero",
+      "cer": 0.9474,
+      "wer": 0.9805,
+      "chars_gt": 2014,
+      "chars_ocr": 115
+    },
+    {
+      "documento": "Heraldo-De-La-Mujer-Diciembre-1919_p016_pero",
+      "cer": 0.0629,
+      "wer": 0.1131,
+      "chars_gt": 4243,
+      "chars_ocr": 4256
+    },
+    {
+      "documento": "Heraldo-De-La-Mujer-Diciembre-1919_p017_pero",
+      "cer": 0.1928,
+      "wer": 0.2941,
+      "chars_gt": 2935,
+      "chars_ocr": 2901
+    },
+    {
+      "documento": "LA-VANGUARDIA-25-04-1944-P01_pero",
+      "cer": 0.4101,
+      "wer": 0.5902,
+      "chars_gt": 14677,
+      "chars_ocr": 14806
+    },
+    {
+      "documento": "LA-VANGUARDIA-25-04-1944-P03_pero",
+      "cer": 0.7503,
+      "wer": 0.9253,
+      "chars_gt": 16741,
+      "chars_ocr": 16875
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-74-P03-26-04-1944_pero",
+      "cer": 0.7553,
+      "wer": 0.9247,
+      "chars_gt": 15839,
+      "chars_ocr": 15926
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-75-27-04-1944-P04_pero",
+      "cer": 0.6024,
+      "wer": 0.7691,
+      "chars_gt": 15474,
+      "chars_ocr": 15566
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-75-P01-26-04-1944_pero",
+      "cer": 0.681,
+      "wer": 0.8537,
+      "chars_gt": 10055,
+      "chars_ocr": 10080
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-75-P01-27-04-1944_pero",
+      "cer": 0.6326,
+      "wer": 0.8171,
+      "chars_gt": 11509,
+      "chars_ocr": 11588
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-76-P01-28-04-1944_pero",
+      "cer": 0.5751,
+      "wer": 0.761,
+      "chars_gt": 14371,
+      "chars_ocr": 14443
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-77-29-04-1944-P04_pero",
+      "cer": 0.713,
+      "wer": 0.8856,
+      "chars_gt": 17381,
+      "chars_ocr": 17591
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-77-29-04-1944_pero",
+      "cer": 0.713,
+      "wer": 0.8856,
+      "chars_gt": 17381,
+      "chars_ocr": 17591
+    },
+    {
+      "documento": "LA-VANGUARDIA-XXV-Num-77-P01_pero",
+      "cer": 0.6807,
+      "wer": 0.8577,
+      "chars_gt": 9471,
+      "chars_ocr": 9538
+    }
+  ]
+}
