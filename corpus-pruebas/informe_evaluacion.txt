@@ -1,0 +1,112 @@
+============================================================
+  EVALUACION COMPARATIVA - PERO-OCR
+  Fecha: 11/09/2026 09:55:52
+============================================================
+
+MODELO BASE (sin fine-tuning)
+  CER: 36.78%
+  WER: 52.41%
+
+MODELO FINE-TUNEADO (mejor epoca)
+  CER: 36.40%
+  WER: 51.93%
+
+MEJORA OBTENIDA
+  Reduccion CER: 0.38 puntos porcentuales
+  Reduccion WER: 0.48 puntos porcentuales
+
+RESULTADOS POR DOCUMENTO
+Documento                                               CER      WER
+----------------------------------------------------------------------
+Filipinas-22-Abril-1909-P03                           2.46%   10.47%
+Filipinas-30-Abril-1909-P18                           2.78%   11.11%
+Filipinas-30-Abril-1909-P17                           3.01%   11.83%
+Filipinas-22-Abril-1909-P04                           4.13%   10.00%
+Filipinas_1909_oct_22_page45                          4.65%   15.80%
+Filipinas_1909_oct_31_page49                          4.70%   16.02%
+Fémina-10-10-1922_p004                                4.78%   13.50%
+Fémina-15-07-1922_p009                                5.04%   15.95%
+Filipinas-30-Abril-1909-P27                           5.23%   18.97%
+Filipinas-22-Abril-1909-P05                           5.54%   11.50%
+Fémina-10-10-1922_p005                                6.20%   14.12%
+Heraldo-De-La-Mujer-Diciembre-1919_p016               6.32%   11.31%
+Filipinas-30-Abril-1909-P16                           6.69%   14.22%
+Filipinas_1909_oct_22_page44                          6.98%   17.80%
+Fémina-15-07-1922_p007                                7.00%   27.61%
+Fémina-10-10-1922_p006                                7.17%   25.60%
+Fémina-15-07-1922_p002                                7.29%   28.10%
+Fémina-15-07-1922_p003                                7.86%   28.64%
+Femina-31-08-1922_p011                                8.45%   48.39%
+Filipinas_1910_jan_22_page89                          8.82%   17.15%
+Filipinas-22-Abril-1909-P09                           9.56%   27.04%
+Filipinas_1909_nov_15_page37                         10.13%   16.02%
+Filipinas-22-Abril-1909-P06                          10.20%   26.14%
+Fémina-15-07-1922_p005                               10.73%   44.38%
+Filipinas-30-Abril-1909-P20                          11.78%   28.52%
+Filipinas-30-Abril-1909-P25                          11.78%   24.66%
+Filipinas_1909_oct_8_page41                          11.98%   23.47%
+Filipinas_1909_oct_8_page39                          12.49%   20.39%
+Filipinas-30-Abril-1909-P15                          12.66%   23.65%
+Filipinas-22-Abril-1909-P10                          13.54%   29.82%
+Filipinas-22-Abril-1909-P08                          14.14%   33.37%
+Filipinas-30-Abril-1909-P21                          14.85%   22.09%
+Filipinas-30-Abril-1909-P24                          15.39%   31.45%
+Filipinas-30-Abril-1909-P32                          16.12%   26.57%
+Filipinas_1909_oct_31_page48                         16.39%   25.43%
+Filipinas-30-Abril-1909-P22                          17.64%   29.57%
+Fémina-15-07-1922_p001                               17.81%   25.65%
+Fémina-10-10-1922_p012                               17.90%   28.47%
+Fémina-10-01-1923_p001                               18.51%   31.55%
+Heraldo-De-La-Mujer-Diciembre-1919_p017              18.74%   29.04%
+Fémina-15-07-1922_p012                               19.27%   28.99%
+Filipinas-30-Abril-1909-P31                          19.50%   42.48%
+Filipinas-30-Abril-1909-P26                          20.88%   28.69%
+Filipinas_1909_oct_22_page46                         21.47%   27.77%
+Filipinas-22-Abril-1909-P13                          22.25%   44.13%
+Filipinas_1909_oct_8_page40                          22.42%   30.87%
+Filipinas_1909_oct_8_page42                          24.72%   30.54%
+Fémina-10-10-1922_p001                               25.13%   34.98%
+LA-VANGUARDIA-25-04-1944-P01                         27.99%   46.90%
+Fémina-10-10-1922_p007                               29.01%   37.21%
+Filipinas-22-Abril-1909-P02                          29.23%   50.81%
+Fémina-15-07-1922_p004                               32.61%   77.78%
+Fémina-15-07-1922_p011                               36.34%   50.00%
+Filipinas-30-Abril-1909-P28                          42.52%   56.59%
+Fémina-10-10-1922_p003                               42.93%   57.89%
+LA-VANGUARDIA-XXV-Num-75-P01-26-04-1944              43.41%   60.34%
+Filipinas-22-Abril-1909-P07                          43.60%   75.59%
+Filipinas_1909_oct_31_page47                         45.27%   48.29%
+Fémina-15-07-1922_p006                               46.47%   60.71%
+Fémina-10-10-1922_p002                               48.82%   61.66%
+Filipinas-30-Abril-1909-P30                          49.45%   63.83%
+Femina-31-08-1922_p012                               49.46%   63.58%
+Filipinas_1909_nov_15_page38                         50.16%   64.46%
+Fémina-10-10-1922_p010                               53.01%   70.72%
+Filipinas-Ante-Europa_Pag47                          53.95%   69.93%
+Filipinas-22-Abril-1909-P11                          55.80%   85.33%
+Fémina-10-01-1923_p002                               56.25%   71.93%
+Filipinas-22-Abril-1909-P01                          56.37%   75.00%
+Filipinas-30-Abril-1909-P14                          57.96%   76.19%
+Filipinas-22-Abril-1909-P12                          59.18%   70.00%
+LA-VANGUARDIA-XXV-Num-75-27-04-1944-P04              60.33%   76.53%
+LA-VANGUARDIA-XXV-Num-75-P01-27-04-1944              61.75%   79.37%
+LA-VANGUARDIA-XXV-Num-76-P01-28-04-1944              65.25%   83.20%
+Filipinas-30-Abril-1909-P33                          67.42%   91.44%
+Filipinas-Ante-Europa_Pag44                          67.44%   74.96%
+Fémina-10-10-1922_p008                               67.89%   84.47%
+LA-VANGUARDIA-XXV-Num-74-P03-26-04-1944              70.00%   86.58%
+LA-VANGUARDIA-XXV-Num-77-29-04-1944-P04              71.30%   89.00%
+LA-VANGUARDIA-XXV-Num-77-29-04-1944                  71.30%   89.00%
+LA-VANGUARDIA-XXV-Num-77-P01                         71.84%   90.98%
+Filipinas-Ante-Europa_Pag50                          74.49%   84.30%
+Fémina-10-10-1922_p009                               76.45%   95.52%
+LA-VANGUARDIA-25-04-1944-P03                         77.55%   94.92%
+Filipinas-Ante-Europa_Pag46                          77.77%   94.56%
+Filipinas-30-Abril-1909-P29                          84.82%   90.77%
+Femina-31-08-1922_p003                               87.27%   93.39%
+Fémina-10-01-1923_p004                               89.98%   97.99%
+Femina-31-08-1922_p007                               90.52%   95.79%
+Fémina-15-10-1922_p004                               94.69%   97.87%
+Fémina-10-01-1923_p011                               95.32%   98.69%
+Fémina-15-07-1922_p008                               98.92%   99.69%
+Filipinas-30-Abril-1909-P19                         143.75%  310.00%
