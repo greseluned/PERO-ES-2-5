@@ -81,7 +81,6 @@
 | Fémina-15-07-1922_p009 | Fémina | 1922 | 009 |
 | Fémina-15-07-1922_p011 | Fémina | 1922 | 011 |
 | Fémina-15-07-1922_p012 | Fémina | 1922 | 012 |
-| Fémina-15-10-1922_p004 | Fémina | 1922 | 004 |
 | Heraldo-De-La-Mujer-Diciembre-1919_p016 | Heraldo de la Mujer | 1919 | 016 |
 | Heraldo-De-La-Mujer-Diciembre-1919_p017 | Heraldo de la Mujer | 1919 | 017 |
 | LA-VANGUARDIA-25-04-1944-P01 | La Vanguardia | 1944 | 01 |
@@ -91,6 +90,5 @@
 | LA-VANGUARDIA-XXV-Num-75-P01-26-04-1944 | La Vanguardia | 1944 | 01 |
 | LA-VANGUARDIA-XXV-Num-75-P01-27-04-1944 | La Vanguardia | 1944 | 01 |
 | LA-VANGUARDIA-XXV-Num-76-P01-28-04-1944 | La Vanguardia | 1944 | 01 |
-| LA-VANGUARDIA-XXV-Num-77-29-04-1944 | La Vanguardia | 1944 | ? |
 | LA-VANGUARDIA-XXV-Num-77-29-04-1944-P04 | La Vanguardia | 1944 | 04 |
 | LA-VANGUARDIA-XXV-Num-77-P01 | La Vanguardia | 1944 | 01 |

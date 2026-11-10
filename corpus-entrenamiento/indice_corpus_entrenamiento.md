@@ -100,9 +100,6 @@
 | Fémina-10-10-1922_p011 | Fémina | 1922 | 011 |
 | Fémina-15-07-1922_p010 | Fémina | 1922 | 010 |
 | Fémina-15-12-1922_p004 | Fémina | 1922 | 004 |
-| Heraldo-de-la-mujer-Aug-1919_p001 | Heraldo de la Mujer | 1919 | 001 |
-| Heraldo-de-la-mujer-Aug-1919_p002 | Heraldo de la Mujer | 1919 | 002 |
-| Heraldo-de-la-mujer-Aug-1919_p003 | Heraldo de la Mujer | 1919 | 003 |
 | Heraldo-de-la-mujer-Aug-1919_p007 | Heraldo de la Mujer | 1919 | 007 |
 | Heraldo-de-la-mujer-Aug-1919_p008 | Heraldo de la Mujer | 1919 | 008 |
 | Heraldo-de-la-mujer-Aug-1919_p009 | Heraldo de la Mujer | 1919 | 009 |
@@ -139,7 +136,6 @@
 | Sorpresas-Chicago_Pag8 | Sorpresas Chicago | 1894-1895 | 8 |
 | Hispanidad-4-Abril-1940-P10 | Hispanidad | Abril 1940 | 10 |
 | Hispanidad-4-Abril-1940-P11 | Hispanidad | Abril 1940 | 11 |
-| Hispanidad-4-Abril-1940-P12 | Hispanidad | Abril 1940 | 12 |
 | Hispanidad-4-Abril-1940-P13 | Hispanidad | Abril 1940 | 13 |
 | Hispanidad-4-Abril-1940-P14 | Hispanidad | Abril 1940 | 14 |
 | Hispanidad-4-Abril-1940-P15 | Hispanidad | Abril 1940 | 15 |

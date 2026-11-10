@@ -1,5 +1,7 @@
 # PERO-ES-2-5: Transcripción con PERO-OCR sobre prensa histórica en español de dos a cinco columnas
 
+> **Nota (noviembre de 2026).** Se han corregido varios emparejamientos entre PAGE-XML e imagen en los dos corpus; los resultados de fine-tuning y evaluación publicados corresponden a la versión anterior y se repetirán. Detalle en [CORRECCIONES.md](CORRECCIONES.md).
+
 ## Descripción
 
 Este repositorio recoge las pruebas realizadas para evaluar la eficacia de PERO-OCR en tareas de transcripción automática de prensa histórica en español. El objetivo principal es comprobar su rendimiento en documentos con layouts variables y de complejidad moderada: páginas con más de una columna, pero sin llegar a la complejidad compositiva de los grandes formatos tipo broadsheet.
